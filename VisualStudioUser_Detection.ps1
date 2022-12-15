@@ -1,5 +1,4 @@
 ﻿#Fill this variable with the Winget package ID
-#$PackageName = "Adobe.Acrobat.Reader.64-bit"
 $PackageName = "Microsoft.VisualStudioCode"
 
 $ResolveWingetPath = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe"
